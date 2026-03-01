@@ -1,5 +1,3 @@
-Custom Intervals: Switch between Pomodoro, Short Break, and Long Break modes.
-Interactive UI: Dynamic button states and background changes.
-Responsive Design: Works on both desktop and mobile browsers.
+# Create a Custom Pomodoro Timer with HTML, CSS and JavaScript
 
-
+## Watch the Full Tutorial on YouTube [link](https://youtu.be/8TQyU83eTGo)
